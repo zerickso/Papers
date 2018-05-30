@@ -141,7 +141,7 @@ plt.savefig('MLDs',dpi=300)
 ```
 
 
-![png](output_14_0.png)
+![png](Figures/output_14_0.png)
 
 
 Chlorophyll calibration
@@ -269,7 +269,7 @@ print('Average spectral slope:',k)
 
 
 
-![png](output_24_2.png)
+![png](Figures/output_24_2.png)
 
 
 
@@ -361,7 +361,7 @@ plt.ylim([1000,0]);
 ```
 
 
-![png](output_28_0.png)
+![png](Figures/output_28_0.png)
 
 
 AOU
@@ -512,7 +512,7 @@ plt.savefig('Overview',dpi=300);
 
 
 
-![png](output_36_1.png)
+![png](Figures/output_36_1.png)
 
 
 ### Surface chlorophyll figure
@@ -577,7 +577,7 @@ plt.savefig('Climatology',dpi=300)
 ```
 
 
-![png](output_40_0.png)
+![png](Figures/output_40_0.png)
 
 
 ### Chlorophyll calibration figure
@@ -636,7 +636,7 @@ plt.savefig('Calibration',dpi=300)
 
 
 
-![png](output_42_2.png)
+![png](Figures/output_42_2.png)
 
 
 ### Backscatter calibration figure
@@ -666,7 +666,7 @@ plt.savefig('Backscatter_calib',dpi=300)
 ```
 
 
-![png](output_45_0.png)
+![png](Figures/output_45_0.png)
 
 
 ### Seaglider biological data time series figure
@@ -844,7 +844,7 @@ plt.savefig('Timeseries_SG',dpi=300)
 
 
 
-![png](output_50_1.png)
+![png](Figures/output_50_1.png)
 
 
 ### Community index figure
@@ -932,7 +932,7 @@ plt.savefig('CI',dpi=300)
 
 
 
-![png](output_53_1.png)
+![png](Figures/output_53_1.png)
 
 
 ### PV and AOU figure
@@ -993,7 +993,7 @@ plt.savefig('PV_AOU_depth',dpi=300)
 
 
 
-![png](output_55_1.png)
+![png](Figures/output_55_1.png)
 
 
 ### PV and AOU figure 2
@@ -1064,7 +1064,7 @@ plt.savefig('PV_AOU_pdens',dpi=300)
 
 
 
-![png](output_57_1.png)
+![png](Figures/output_57_1.png)
 
 
 ### Time series forcings figure
@@ -1297,7 +1297,7 @@ plt.savefig('Timeseries_forcings',dpi=300);
 ```
 
 
-![png](output_65_0.png)
+![png](Figures/output_65_0.png)
 
 
 ### Subduction event detail figure
@@ -1320,7 +1320,7 @@ plt.xlim([110,128]); plt.ylim([300,0])
 
 
 
-![png](output_67_2.png)
+![png](Figures/output_67_2.png)
 
 
 
@@ -1391,7 +1391,7 @@ plt.savefig('Detail',dpi=300)
 
 
 
-![png](output_68_1.png)
+![png](Figures/output_68_1.png)
 
 
 ### MLI and SI figure
@@ -1420,7 +1420,7 @@ for i in range(len(H)):
 ```
 
 
-![png](output_71_0.png)
+![png](Figures/output_71_0.png)
 
 
 
@@ -1516,7 +1516,7 @@ plt.legend(loc=4); plt.grid(True)
 ```
 
 
-![png](output_76_0.png)
+![png](Figures/output_76_0.png)
 
 
 
@@ -1560,7 +1560,7 @@ plt.ylabel(r'Stress orientation $\times \pi$',color='C1'); plt.ylim([-4,10]);
 ```
 
 
-![png](output_79_0.png)
+![png](Figures/output_79_0.png)
 
 
 
@@ -1615,7 +1615,7 @@ plt.grid(True)
 ```
 
 
-![png](output_83_0.png)
+![png](Figures/output_83_0.png)
 
 
 
@@ -1689,7 +1689,7 @@ for i in range(len(SG)):
 ```
 
 
-![png](output_88_0.png)
+![png](Figures/output_88_0.png)
 
 
 
@@ -1792,7 +1792,7 @@ plt.savefig('SI_MLI',dpi=300)
 ```
 
 
-![png](output_92_0.png)
+![png](Figures/output_92_0.png)
 
 
 ### MLD and stratification at base of MLD figure
@@ -1953,7 +1953,7 @@ plt.savefig('Schematic1',dpi=300)
 
 
 
-![png](output_99_1.png)
+![png](Figures/output_99_1.png)
 
 
 
@@ -2051,7 +2051,7 @@ plt.savefig('Schematic1b',dpi=300)
 
 
 
-![png](output_100_1.png)
+![png](Figures/output_100_1.png)
 
 
 ### Schematic figure
@@ -2094,5 +2094,5 @@ plt.savefig('Schematic2',dpi=300)
 ```
 
 
-![png](output_102_0.png)
+![png](Figures/output_102_0.png)
 
